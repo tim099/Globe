@@ -1,7 +1,8 @@
 {
-	"Version": 1,
-	"Mapping": "equiangular-cube",
-	"N": 2048,
+	"Version": 2,
+	"Mapping": "equiangular-cube-v2",
+	"N": 4096,
+	"InitialN": 2048,
 	"BaseColor": "#0049AA",
 	"CellFormat": "rgb24",
 	"Faces": [
