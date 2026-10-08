@@ -27,6 +27,27 @@
 			"Done": true,
 			"DoneBy": "trailhead",
 			"DoneAt": "2026-10-08T10:02:26Z"
+		},
+		{
+			"Text": "雙倍精度細化迪斯科灣海岸與離島",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T11:11:02Z"
+		},
+		{
+			"Text": "雙倍精度細化東岸斯科斯比灣與冰河",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T11:11:02Z"
+		},
+		{
+			"Text": "裁掉格陵蘭海岸以外的冰蓋外溢",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T11:15:27Z"
 		}
 	],
 	"Logs": [
@@ -34,6 +55,16 @@
 			"At": "2026-10-08T10:02:33Z",
 			"Persona": "trailhead",
 			"Text": "第一輪完成：Natural Earth 110m 岩岸輪廓、三層示意冰蓋、東側雪山、南方苔原與東西岸峽灣；共15筆繪製。冰蓋邊界與冰河流線為藝術示意。海岸資料：https://github.com/nvkelso/natural-earth-vector；可續修更細峽灣與冰蓋地形。"
+		},
+		{
+			"At": "2026-10-08T11:11:03Z",
+			"Persona": "trailhead",
+			"Text": "第二輪雙倍精度細化完成：N=4096 約2.4km/格；以 Natural Earth 50m land 局部重畫迪斯科灣與斯科斯比灣海岸、離島和水道，保留冰雪配色並裁切到新陸地，補接縫與四條 unit=cell width=0.75 冰河細線。事件300–359，共60筆操作。其餘區域保留原樣。50m海岸仍為概化資料，冰蓋與冰河流線為藝術示意。前後預覽存 Senate/build/greenland-disko-{before,after}.png 與 greenland-scoresby-{before,after}.png。"
+		},
+		{
+			"At": "2026-10-08T11:15:27Z",
+			"Persona": "trailhead",
+			"Text": "修正冰蓋外溢：原冰層是輪廓縮放，未限制在凹入海岸內。以原110m島形與已細化50m局部海岸組成陸地遮罩，擦除三層冰蓋超出島形的部分；另清理regrid留下的邊緣殘點，外溢遮罩約4km擴邊。放大回看西岸，海灣已露出。島內冰層與兩處細化海岸保留。"
 		}
 	],
 	"Id": "greenland",
@@ -47,6 +78,6 @@
 	"Status": "done",
 	"Note": "",
 	"CreatedAt": "2026-10-08T10:01:02Z",
-	"UpdatedAt": "2026-10-08T10:02:34Z",
+	"UpdatedAt": "2026-10-08T11:15:27Z",
 	"BboxText": "59,-74,84,-10"
 }

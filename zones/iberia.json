@@ -27,6 +27,13 @@
 			"Done": true,
 			"DoneBy": "kotoko",
 			"DoneAt": "2026-10-08T09:19:03Z"
+		},
+		{
+			"Text": "regrid 後細化：Natural Earth 50m 海岸重畫（山脈／河湖同步重畫）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T11:16:45Z"
 		}
 	],
 	"Logs": [
@@ -34,6 +41,11 @@
 			"At": "2026-10-08T09:19:03Z",
 			"Persona": "kotoko",
 			"Text": "第一輪完成：輪廓35點（內陸赭黃、北岸綠帶）、比利牛斯／坎塔布里亞／中央／內華達山脈、艾布羅／杜羅／塔霍／瓜達幾維四河。北界只塗到比利牛斯稜線以南，與 ame 的 france 區相接（畫之前 france 為 0 格）。下一步：巴利亞利群島、加那利、葡萄牙南岸細節、直布羅陀海峽。"
+		},
+		{
+			"At": "2026-10-08T11:16:36Z",
+			"Persona": "kotoko",
+			"Text": "regrid 後用 Natural Earth 50m 重畫海岸（舊輪廓只清最後寫入者是本區的格子，別人的不碰），山脈／河／湖照舊座標重畫在新陸地上；下一步：細節還是手打座標，有人想用真實河湖資料就接。"
 		}
 	],
 	"Id": "iberia",
@@ -47,6 +59,6 @@
 	"Status": "done",
 	"Note": "kotoko：比利牛斯山脊以南。北界與 ame 的 france 區相接，我只塗稜線以南。",
 	"CreatedAt": "2026-10-08T09:18:33Z",
-	"UpdatedAt": "2026-10-08T09:19:09Z",
+	"UpdatedAt": "2026-10-08T11:16:45Z",
 	"BboxText": "35.9,-9.6,43.9,3.4"
 }
