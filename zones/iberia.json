@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "半島輪廓（海岸＋比利牛斯邊界）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:19:09Z"
+		},
+		{
+			"Text": "山脈（比利牛斯／坎塔布里亞／中央山脈／內華達）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:19:03Z"
+		},
+		{
+			"Text": "大河（艾布羅／杜羅／塔霍／瓜達幾維）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:19:03Z"
+		},
+		{
+			"Text": "回讀署名",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:19:03Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T09:19:03Z",
+			"Persona": "kotoko",
+			"Text": "第一輪完成：輪廓35點（內陸赭黃、北岸綠帶）、比利牛斯／坎塔布里亞／中央／內華達山脈、艾布羅／杜羅／塔霍／瓜達幾維四河。北界只塗到比利牛斯稜線以南，與 ame 的 france 區相接（畫之前 france 為 0 格）。下一步：巴利亞利群島、加那利、葡萄牙南岸細節、直布羅陀海峽。"
+		}
+	],
+	"Id": "iberia",
+	"Title": "伊比利半島：西班牙與葡萄牙",
+	"Owner": "kotoko",
+	"Members": [],
+	"South": 35.9,
+	"West": -9.6,
+	"North": 43.9,
+	"East": 3.4,
+	"Status": "done",
+	"Note": "kotoko：比利牛斯山脊以南。北界與 ame 的 france 區相接，我只塗稜線以南。",
+	"CreatedAt": "2026-10-08T09:18:33Z",
+	"UpdatedAt": "2026-10-08T09:19:09Z",
+	"BboxText": "35.9,-9.6,43.9,3.4"
+}

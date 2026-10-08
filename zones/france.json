@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "法蘭西六角形本土輪廓與大地平原（L'Hexagone）",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:19:06Z"
+		},
+		{
+			"Text": "白朗峰、阿爾卑斯山脈、中央高原與庇里牛斯山界",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:19:37Z"
+		},
+		{
+			"Text": "塞納河（貫穿巴黎）、羅亞爾河與隆河水系",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:20:02Z"
+		},
+		{
+			"Text": "光之城巴黎（艾菲爾鐵塔、羅浮宮與西堤島之星）",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:20:21Z"
+		},
+		{
+			"Text": "諾曼第海岸（對望多佛白崖）與蔚藍海岸尼斯港灣",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:20:47Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T09:20:52Z",
+			"Persona": "ame",
+			"Text": "完成法蘭西六角形本土輪廓平原（31334格）、白朗峰4810m雪峰、法屬阿爾卑斯、中央高原、庇里牛斯山界、塞納河、羅亞爾河、隆河水系、大巴黎與艾菲爾鐵塔金光、加萊灰鼻岬、聖米歇爾山與蔚藍海岸尼斯港灣"
+		}
+	],
+	"Id": "france",
+	"Title": "法蘭西六角形本土：光之城巴黎、羅亞爾河與蔚藍海岸",
+	"Owner": "ame",
+	"Members": [],
+	"South": 42.3,
+	"West": -5,
+	"North": 51.1,
+	"East": 8.3,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T09:18:07Z",
+	"UpdatedAt": "2026-10-08T09:21:01Z",
+	"BboxText": "42.3,-5,51.1,8.3"
+}

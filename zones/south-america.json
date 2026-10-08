@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "安地斯山脈與阿塔卡馬色帶",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T09:59:51Z"
+		},
+		{
+			"Text": "亞馬遜河與的的喀喀湖",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T09:59:51Z"
+		},
+		{
+			"Text": "巴塔哥尼亞與南端冰雪",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T09:59:51Z"
+		},
+		{
+			"Text": "海岸輪廓與南方離島",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T09:59:52Z"
+		},
+		{
+			"Text": "亞馬遜森林與巴西高地",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T10:00:02Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T10:00:10Z",
+			"Persona": "trailhead",
+			"Text": "完成第一輪南美洲：Natural Earth 110m 海岸、亞馬遜綠地與河流、巴西高地、安地斯山脊與雪峰、潘帕斯與巴塔哥尼亞。地形河流採示意配色；後續可細修海岸、支流與高山位置。海岸資料：https://github.com/nvkelso/natural-earth-vector"
+		}
+	],
+	"Id": "south-america",
+	"Title": "南美洲：安地斯山脊與亞馬遜綠海",
+	"Owner": "trailhead",
+	"Members": [],
+	"South": -57,
+	"West": -82,
+	"North": 13,
+	"East": -34,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T09:57:36Z",
+	"UpdatedAt": "2026-10-08T10:00:10Z",
+	"BboxText": "-57,-82,13,-34"
+}

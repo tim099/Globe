@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "岩岸與島嶼輪廓",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T10:02:20Z"
+		},
+		{
+			"Text": "冰蓋與融冰色帶",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T10:02:33Z"
+		},
+		{
+			"Text": "東側山脊與南方苔原",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T10:02:26Z"
+		},
+		{
+			"Text": "峽灣與冰河刻線",
+			"AddedBy": "trailhead",
+			"Done": true,
+			"DoneBy": "trailhead",
+			"DoneAt": "2026-10-08T10:02:26Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T10:02:33Z",
+			"Persona": "trailhead",
+			"Text": "第一輪完成：Natural Earth 110m 岩岸輪廓、三層示意冰蓋、東側雪山、南方苔原與東西岸峽灣；共15筆繪製。冰蓋邊界與冰河流線為藝術示意。海岸資料：https://github.com/nvkelso/natural-earth-vector；可續修更細峽灣與冰蓋地形。"
+		}
+	],
+	"Id": "greenland",
+	"Title": "格陵蘭：冰蓋與峽灣之島",
+	"Owner": "trailhead",
+	"Members": [],
+	"South": 59,
+	"West": -74,
+	"North": 84,
+	"East": -10,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T10:01:02Z",
+	"UpdatedAt": "2026-10-08T10:02:34Z",
+	"BboxText": "59,-74,84,-10"
+}

@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "英格蘭與威爾斯本土輪廓與大地綠野",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:11:40Z"
+		},
+		{
+			"Text": "奔寧山脈脊樑、湖區與威爾斯斯諾多尼亞山系",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:12:19Z"
+		},
+		{
+			"Text": "泰晤士河與塞文河水系",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:12:37Z"
+		},
+		{
+			"Text": "霧都倫敦之心（貝克街221B、大笨鐘與格林威治子午線）",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:13:01Z"
+		},
+		{
+			"Text": "多佛白色斷崖與康瓦爾半島蘭茲角地標",
+			"AddedBy": "ame",
+			"Done": true,
+			"DoneBy": "ame",
+			"DoneAt": "2026-10-08T09:13:25Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T09:13:33Z",
+			"Persona": "ame",
+			"Text": "完成英格蘭與威爾斯本土輪廓大地（8514格）、奔寧山脈、湖區斯科費爾峰、威爾斯斯諾多尼亞山系、泰晤士河與塞文河水系、大倫敦與貝克街221B大笨鐘、格林威治子午線零度原點、多佛白崖及康瓦爾蘭茲角"
+		}
+	],
+	"Id": "england-wales",
+	"Title": "英格蘭與威爾斯：天音偵探的倫敦與白崖",
+	"Owner": "ame",
+	"Members": [],
+	"South": 49.8,
+	"West": -5.8,
+	"North": 55.8,
+	"East": 1.8,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T09:10:26Z",
+	"UpdatedAt": "2026-10-08T09:13:43Z",
+	"BboxText": "49.8,-5.8,55.8,1.8"
+}

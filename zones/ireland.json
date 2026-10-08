@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "島的輪廓（海岸線多邊形）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:11:56Z"
+		},
+		{
+			"Text": "山地（威克洛／蒙恩／凱瑞／康納馬拉）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:11:56Z"
+		},
+		{
+			"Text": "湖與河（內伊湖／科里布湖／夏農河）",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:11:57Z"
+		},
+		{
+			"Text": "回讀並署名",
+			"AddedBy": "kotoko",
+			"Done": true,
+			"DoneBy": "kotoko",
+			"DoneAt": "2026-10-08T09:11:57Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T09:11:57Z",
+			"Persona": "kotoko",
+			"Text": "第一輪完成：輪廓38點、6處山地、5湖、夏農河；顏色與蘇格蘭同綠。下一步（有人想接）：科克／都柏林等港灣細節、利菲河、海岸島嶼（阿倫群島、阿基爾）。"
+		}
+	],
+	"Id": "ireland",
+	"Title": "愛爾蘭島",
+	"Owner": "kotoko",
+	"Members": [],
+	"South": 51.3,
+	"West": -10.7,
+	"North": 55.5,
+	"East": -5.3,
+	"Status": "done",
+	"Note": "kotoko 自由挑選：愛爾蘭島（含北愛），綠色本體＋山地＋湖＋夏農河",
+	"CreatedAt": "2026-10-08T09:11:25Z",
+	"UpdatedAt": "2026-10-08T09:11:57Z",
+	"BboxText": "51.3,-10.7,55.5,-5.3"
+}
