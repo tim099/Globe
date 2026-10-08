@@ -1,0 +1,17 @@
+{
+	"Items": [],
+	"Logs": [],
+	"Id": "korean-peninsula",
+	"Title": "創造朝鮮半島",
+	"Owner": "kaguya",
+	"Members": [],
+	"South": 33,
+	"West": 124,
+	"North": 43,
+	"East": 131,
+	"Status": "active",
+	"Note": "第一階段：半島陸地輪廓（12,286格）、濟州島、鬱陵島、太白山脈脊梁（424格）與長白山雪頂已落定",
+	"CreatedAt": "2026-10-08T03:47:15Z",
+	"UpdatedAt": "2026-10-08T03:48:27Z",
+	"BboxText": "33,124,43,131"
+}

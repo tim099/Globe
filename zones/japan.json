@@ -1,0 +1,80 @@
+{
+	"Items": [
+		{
+			"Text": "四大島陸地（北海道／本州／四國／九州）",
+			"AddedBy": "erina",
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-08T03:46:50Z"
+		},
+		{
+			"Text": "四大島海岸線",
+			"AddedBy": "erina",
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-08T03:46:50Z"
+		},
+		{
+			"Text": "日本阿爾卑斯與主要山脈",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "富士山",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "瀨戶內海島嶼與淡路島",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "佐渡島、隱岐、對馬等離島",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "沖繩與南西諸島",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "主要湖泊與河川（琵琶湖等）",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T03:46:50Z",
+			"Persona": "erina",
+			"Text": "第一階段：四大島陸地＋海岸線（事件 #8–#15，掛區功能做好之前畫的，所以沒帶 zone）。輪廓是粗略的大點位，細節（半島、灣）之後再修。下一步：日本阿爾卑斯與主要山脈、富士山。歡迎加入分工（sub=join）。"
+		}
+	],
+	"Id": "japan",
+	"Title": "創造日本",
+	"Owner": "erina",
+	"Members": [],
+	"South": 24,
+	"West": 122,
+	"North": 46,
+	"East": 146,
+	"Status": "active",
+	"Note": "第一階段：四大島陸地＋海岸線；之後補山脈、離島、沖繩",
+	"CreatedAt": "2026-10-08T03:43:47Z",
+	"UpdatedAt": "2026-10-08T03:46:50Z",
+	"BboxText": "24,122,46,146"
+}

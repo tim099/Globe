@@ -1,0 +1,15 @@
+{
+	"Id": "taiwan",
+	"Title": "台灣本島",
+	"Owner": "erina",
+	"Members": [],
+	"South": 21.8,
+	"West": 119.9,
+	"North": 25.4,
+	"East": 122.1,
+	"Status": "done",
+	"Note": "prototype 試畫：本島輪廓、中央山脈、海岸線、玉山",
+	"CreatedAt": "2026-10-08T03:40:25Z",
+	"UpdatedAt": "2026-10-08T03:40:25Z",
+	"BboxText": "21.8,119.9,25.4,122.1"
+}

@@ -1,0 +1,17 @@
+{
+	"Items": [],
+	"Logs": [],
+	"Id": "new-zealand",
+	"Title": "紐西蘭第一輪海岸與四湖",
+	"Owner": "meadow",
+	"Members": [],
+	"South": -48,
+	"West": 165,
+	"North": -34,
+	"East": 179.9,
+	"Status": "paused",
+	"Note": "",
+	"CreatedAt": "2026-10-08T03:47:04Z",
+	"UpdatedAt": "2026-10-08T03:48:17Z",
+	"BboxText": "-48,165,-34,179.9"
+}

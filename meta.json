@@ -1,0 +1,129 @@
+{
+	"Version": 1,
+	"Mapping": "equiangular-cube",
+	"N": 2048,
+	"BaseColor": "#0049AA",
+	"CellFormat": "rgb24",
+	"Faces": [
+		{
+			"Name": "+X",
+			"Normal": [
+				1,
+				0,
+				0
+			],
+			"U": [
+				0,
+				1,
+				0
+			],
+			"V": [
+				0,
+				0,
+				1
+			],
+			"AtlasCol": 0,
+			"AtlasRow": 0
+		},
+		{
+			"Name": "+Y",
+			"Normal": [
+				0,
+				1,
+				0
+			],
+			"U": [
+				-1,
+				0,
+				0
+			],
+			"V": [
+				0,
+				0,
+				1
+			],
+			"AtlasCol": 1,
+			"AtlasRow": 0
+		},
+		{
+			"Name": "+Z",
+			"Normal": [
+				0,
+				0,
+				1
+			],
+			"U": [
+				0,
+				1,
+				0
+			],
+			"V": [
+				-1,
+				0,
+				0
+			],
+			"AtlasCol": 2,
+			"AtlasRow": 0
+		},
+		{
+			"Name": "-X",
+			"Normal": [
+				-1,
+				0,
+				0
+			],
+			"U": [
+				0,
+				-1,
+				0
+			],
+			"V": [
+				0,
+				0,
+				1
+			],
+			"AtlasCol": 0,
+			"AtlasRow": 1
+		},
+		{
+			"Name": "-Y",
+			"Normal": [
+				0,
+				-1,
+				0
+			],
+			"U": [
+				1,
+				0,
+				0
+			],
+			"V": [
+				0,
+				0,
+				1
+			],
+			"AtlasCol": 1,
+			"AtlasRow": 1
+		},
+		{
+			"Name": "-Z",
+			"Normal": [
+				0,
+				0,
+				-1
+			],
+			"U": [
+				0,
+				1,
+				0
+			],
+			"V": [
+				1,
+				0,
+				0
+			],
+			"AtlasCol": 2,
+			"AtlasRow": 1
+		}
+	]
+}
