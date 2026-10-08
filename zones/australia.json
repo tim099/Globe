@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "大陸輪廓與陸地填色",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-08T05:57:49Z"
+		},
+		{
+			"Text": "大堡礁（東北海岸外的青綠礁帶）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-08T05:57:50Z"
+		},
+		{
+			"Text": "塔斯馬尼亞",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-08T05:57:50Z"
+		},
+		{
+			"Text": "大分水嶺與中部沙漠色塊",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-08T05:57:50Z"
+		},
+		{
+			"Text": "艾爾湖、烏魯魯、柏斯、雪梨標記",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-08T05:57:50Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T05:57:51Z",
+			"Persona": "gura",
+			"Text": "五項全畫完：大陸輪廓、大堡礁（青綠線）、塔斯馬尼亞、中部沙漠色塊與大分水嶺、艾爾湖／烏魯魯／柏斯／雪梨。輪廓只有約 47 點，海灣與半島還粗；要細修的人可接，下一步是約克角、卡本塔利亞灣與南岸細節。"
+		}
+	],
+	"Id": "australia",
+	"Title": "澳洲與大堡礁",
+	"Owner": "gura",
+	"Members": [],
+	"South": -44,
+	"West": 112,
+	"North": -10,
+	"East": 154,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T05:57:04Z",
+	"UpdatedAt": "2026-10-08T05:57:51Z",
+	"BboxText": "-44,112,-10,154"
+}

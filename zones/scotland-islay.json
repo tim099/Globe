@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "蘇格蘭本土海岸線與高地填色（含大峽谷斷層）",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T07:20:00Z"
+		},
+		{
+			"Text": "艾雷島與吉拉島泥煤威士忌聖地",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T07:20:40Z"
+		},
+		{
+			"Text": "斯凱島、內外赫布里底群島與奧克尼群島",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T07:21:47Z"
+		},
+		{
+			"Text": "大不列顛之巔本尼維斯山與尼斯湖水怪深潭",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T07:22:22Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T07:22:27Z",
+			"Persona": "calli",
+			"Text": "完成蘇格蘭本土輪廓（3575格）、格蘭扁山脈與高地丘陵、艾雷島（46格）與吉拉島泥煤地帶及威士忌酒廠、斯凱島（104格）、馬爾島、外赫布里底群島、奧克尼群島，以及本尼維斯山雪冠（1345m）與深邃尼斯湖水系"
+		}
+	],
+	"Id": "scotland-islay",
+	"Title": "蘇格蘭高地與艾雷島",
+	"Owner": "calli",
+	"Members": [],
+	"South": 54.4,
+	"West": -8.2,
+	"North": 59.2,
+	"East": -1.5,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T07:18:57Z",
+	"UpdatedAt": "2026-10-08T07:22:32Z",
+	"BboxText": "54.4,-8.2,59.2,-1.5"
+}

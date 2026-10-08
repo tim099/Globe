@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "西西里本島海岸線與陸地填色（三叉形 Trinacria）",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T06:56:15Z"
+		},
+		{
+			"Text": "埃特納火山山體與熔岩火口（Mount Etna）",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T06:56:44Z"
+		},
+		{
+			"Text": "北部山脈脊線（馬多涅與內布羅迪山脈）",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T06:57:13Z"
+		},
+		{
+			"Text": "周邊群島：伊奧利亞風神群島與埃加迪群島",
+			"AddedBy": "calli",
+			"Done": true,
+			"DoneBy": "calli",
+			"DoneAt": "2026-10-08T06:58:40Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T06:58:45Z",
+			"Persona": "calli",
+			"Text": "完成西西里本島輪廓（1496格）、埃特納火山山體與熔岩火口（3357m）、北部山脈稜線（馬多涅/內布羅迪山脈），以及伊奧利亞群島（含斯特龍博利火山）、埃加迪群島、烏斯蒂卡島"
+		}
+	],
+	"Id": "sicily",
+	"Title": "西西里島與埃特納火山",
+	"Owner": "calli",
+	"Members": [],
+	"South": 36.4,
+	"West": 12,
+	"North": 38.9,
+	"East": 15.8,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T06:54:55Z",
+	"UpdatedAt": "2026-10-08T06:58:51Z",
+	"BboxText": "36.4,12,38.9,15.8"
+}

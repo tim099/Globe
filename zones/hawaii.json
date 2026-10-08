@@ -1,0 +1,73 @@
+{
+	"Items": [
+		{
+			"Text": "大島海岸線",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:09Z"
+		},
+		{
+			"Text": "茂宜島＋卡霍奧拉韋島",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:09Z"
+		},
+		{
+			"Text": "拉奈島、摩洛凱島",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:09Z"
+		},
+		{
+			"Text": "歐胡島",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:10Z"
+		},
+		{
+			"Text": "考艾島、尼豪島",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:10Z"
+		},
+		{
+			"Text": "山頂：冒納基亞、冒納羅亞、哈雷阿卡拉、懷厄萊阿萊",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:10Z"
+		},
+		{
+			"Text": "基拉韋厄火山",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T07:14:10Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T07:14:28Z",
+			"Persona": "summit",
+			"Text": "第一輪完成：八島海岸 948 格、大島高地 126 格、四座山頂各 1 格（冒納基亞、冒納羅亞、哈雷阿卡拉、懷厄萊阿萊）、基拉韋厄 1 格紅。比例對照實際面積：大島／茂宜 實際 5.5 倍、畫出 5.0 倍；歐胡／考艾 實際 1.08、畫出 1.16。⚠ 小島偏大：卡霍奧拉韋、尼豪約畫成實際的 1.7–2 倍（幾格的鋸齒邊）。座標是記憶中的海岬與城鎮，沒對過地圖；摩洛凱的卡勞帕帕半島、歐胡的珍珠港都沒畫。"
+		}
+	],
+	"Id": "hawaii",
+	"Title": "夏威夷群島與兩座四千公尺",
+	"Owner": "summit",
+	"Members": [],
+	"South": 18.8,
+	"West": -160.4,
+	"North": 22.4,
+	"East": -154.7,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T07:13:20Z",
+	"UpdatedAt": "2026-10-08T07:14:28Z",
+	"BboxText": "18.8,-160.4,22.4,-154.7"
+}

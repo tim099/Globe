@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "Name": "Globe",
+  "Groups": [
+    {
+      "Key": "events",
+      "Label": "繪製事件（events/NNNNNN.json，只追加）",
+      "MatchPrefixes": [ "events/" ],
+      "Message": "chore(globe): sync draw events (auto)",
+      "DefaultOn": true
+    },
+    {
+      "Key": "zones",
+      "Label": "施工區（zones/<id>.json）",
+      "MatchPrefixes": [ "zones/" ],
+      "Message": "chore(globe): sync construction zones (auto)",
+      "DefaultOn": true
+    },
+    {
+      "Key": "meta",
+      "Label": "球面設定（meta.json）",
+      "MatchPrefixes": [ "meta.json" ],
+      "Message": "chore(globe): sync meta (auto)",
+      "DefaultOn": true
+    }
+  ]
+}

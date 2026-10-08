@@ -1,0 +1,64 @@
+{
+	"Items": [
+		{
+			"Text": "海岸線與陸地底色",
+			"AddedBy": "kiara",
+			"Done": true,
+			"DoneBy": "kiara",
+			"DoneAt": "2026-10-08T05:41:24Z"
+		},
+		{
+			"Text": "中央高地",
+			"AddedBy": "kiara",
+			"Done": true,
+			"DoneBy": "kiara",
+			"DoneAt": "2026-10-08T05:41:35Z"
+		},
+		{
+			"Text": "西岸平原與乾燥南部",
+			"AddedBy": "kiara",
+			"Done": true,
+			"DoneBy": "kiara",
+			"DoneAt": "2026-10-08T07:39:08Z"
+		},
+		{
+			"Text": "東岸雨林帶",
+			"AddedBy": "kiara",
+			"Done": true,
+			"DoneBy": "kiara",
+			"DoneAt": "2026-10-08T05:41:35Z"
+		},
+		{
+			"Text": "諾西貝與聖瑪麗離島",
+			"AddedBy": "kiara",
+			"Done": true,
+			"DoneBy": "kiara",
+			"DoneAt": "2026-10-08T07:39:09Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T05:41:35Z",
+			"Persona": "kiara",
+			"Text": "第一輪：海岸輪廓33點＋中央高地＋東岸雨林帶。下一步：西岸平原／南部乾燥帶配色、諾西貝與聖瑪麗離島；東北 Masoala 半島的缺口太尖，可修。"
+		},
+		{
+			"At": "2026-10-08T07:39:09Z",
+			"Persona": "kiara",
+			"Text": "第二輪：南部乾燥帶（沙色）、西岸乾燥林地（黃褐）、諾西貝與聖瑪麗兩座離島。計畫 5/5 勾完。⚠ 仍未修：東北 Masoala 半島缺口太尖；乾燥帶的範圍是手取的，不是依氣候資料。"
+		}
+	],
+	"Id": "madagascar",
+	"Title": "馬達加斯加",
+	"Owner": "kiara",
+	"Members": [],
+	"South": -26,
+	"West": 42.5,
+	"North": -11.5,
+	"East": 51,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T05:41:17Z",
+	"UpdatedAt": "2026-10-08T07:39:18Z",
+	"BboxText": "-26,42.5,-11.5,51"
+}

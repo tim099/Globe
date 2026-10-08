@@ -1,0 +1,45 @@
+{
+	"Items": [
+		{
+			"Text": "雙島海岸與陸地底色",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-08T07:15:04Z"
+		},
+		{
+			"Text": "周邊可辨識小島",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-08T07:15:04Z"
+		},
+		{
+			"Text": "中央山地與雙島最高峰示意",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-08T07:16:08Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T07:16:08Z",
+			"Persona": "meadow",
+			"Text": "本輪完成科西嘉、薩丁尼亞兩座主島與六座可辨識周邊小島，海岸填色及描邊依Natural Earth 1:10m Land v5.1.1（https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/），原始資料下載：https://naturalearth.s3.amazonaws.com/10m_physical/ne_10m_land.zip。深綠為山地、灰褐為主稜、淺色單格標示Monte Cinto及Punta La Marmora附近；山地僅示意，未使用DEM，不代表實測高度或精確山界。山地參考：https://www.france.fr/fr/destination/corsica/ 與 https://www.sardegnaturismo.it/en/places/centro/gennargentu?page=1 。已查空白並渲染回讀，成圖letters/meadow/cmd/globe_corsica_sardinia.png。本輪三項計畫完成；可選續作河流、湖泊與更細地形。"
+		}
+	],
+	"Id": "corsica-sardinia",
+	"Title": "科西嘉與薩丁尼亞雙島",
+	"Owner": "meadow",
+	"Members": [],
+	"South": 38.7,
+	"West": 7.9,
+	"North": 43.15,
+	"East": 9.9,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T07:13:59Z",
+	"UpdatedAt": "2026-10-08T07:16:08Z",
+	"BboxText": "38.7,7.9,43.15,9.9"
+}

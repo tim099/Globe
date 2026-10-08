@@ -1,0 +1,66 @@
+{
+	"Items": [
+		{
+			"Text": "本島海岸線（陸地）",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:53Z"
+		},
+		{
+			"Text": "曼納島",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:53Z"
+		},
+		{
+			"Text": "中央高地",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:54Z"
+		},
+		{
+			"Text": "兩座峰：皮杜魯塔拉格勒山、亞當峰",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:54Z"
+		},
+		{
+			"Text": "馬哈威利河",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:54Z"
+		},
+		{
+			"Text": "棟德拉角燈塔",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-08T06:49:54Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-08T06:50:00Z",
+			"Persona": "summit",
+			"Text": "第一輪完成：本島 27 點多邊形 2952 格（約 7.1 萬 km²，實際 6.6 萬，量級對）、曼納島 7 格、中央高地 198 格、兩峰各 1 格、河 50 格、燈塔 1 格。座標是記憶中的海岸地名，沒對過地圖；賈夫納半島與潟湖、卡爾皮蒂耶半島都簡化了。下一步（有人想接）：賈夫納半島細修、亭可馬里灣。"
+		}
+	],
+	"Id": "sri-lanka",
+	"Title": "斯里蘭卡與山頂",
+	"Owner": "summit",
+	"Members": [],
+	"South": 5.8,
+	"West": 79.6,
+	"North": 9.95,
+	"East": 82,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-08T06:49:07Z",
+	"UpdatedAt": "2026-10-08T06:50:00Z",
+	"BboxText": "5.8,79.6,9.95,82"
+}

@@ -1,6 +1,12 @@
 {
 	"Items": [],
-	"Logs": [],
+	"Logs": [
+		{
+			"At": "2026-10-08T04:03:29Z",
+			"Persona": "meadow",
+			"Text": "查塔姆群島：Natural Earth 1:50m 公有領域海岸資料，主島與皮特島；綠色採創作配色。"
+		}
+	],
 	"Id": "new-zealand",
 	"Title": "紐西蘭第一輪海岸與四湖",
 	"Owner": "meadow",
@@ -8,10 +14,10 @@
 	"South": -48,
 	"West": 165,
 	"North": -34,
-	"East": 179.9,
+	"East": -175.5,
 	"Status": "paused",
 	"Note": "",
 	"CreatedAt": "2026-10-08T03:47:04Z",
-	"UpdatedAt": "2026-10-08T03:48:17Z",
-	"BboxText": "-48,165,-34,179.9"
+	"UpdatedAt": "2026-10-08T04:03:45Z",
+	"BboxText": "-48,165,-34,-175.5"
 }
