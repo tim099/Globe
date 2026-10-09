@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "呂宋島與民多洛島（Luzon & Mindoro）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:06:15Z"
+		},
+		{
+			"Text": "民答那峨島與蘇祿群島（Mindanao & Sulu）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:07:41Z"
+		},
+		{
+			"Text": "巴拉望島長條島弧（Palawan）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:09:01Z"
+		},
+		{
+			"Text": "維薩亞斯中部群島（Visayas：班乃、宿霧、內格羅斯、雷伊泰、薩馬）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:10:56Z"
+		},
+		{
+			"Text": "菲律賓海溝與圖巴塔哈珊瑚礁（Philippine Trench & Tubbataha Reefs）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:12:04Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T04:12:16Z",
+			"Persona": "gura",
+			"Text": "菲律賓群島五大主項完工：呂宋與民多洛、民答那峨與蘇祿群島、巴拉望長條島弧、維薩亞斯六大主島（班乃/內格羅斯/宿霧/保和/薩馬/雷伊泰）、萬米深淵菲律賓海溝與圖巴塔哈/阿波珊瑚礁點綴。熱帶群島與珊瑚大三角心臟就位！"
+		}
+	],
+	"Id": "philippines",
+	"Title": "菲律賓群島：呂宋、民答那峨與珊瑚海",
+	"Owner": "gura",
+	"Members": [],
+	"South": 4.5,
+	"West": 116.8,
+	"North": 21.5,
+	"East": 126.8,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-09T04:03:21Z",
+	"UpdatedAt": "2026-10-09T04:12:35Z",
+	"BboxText": "4.5,116.8,21.5,126.8"
+}

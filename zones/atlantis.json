@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "外環山銅島弧與環狀巨石列島（Outer Ring of Atlantis）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:22:48Z"
+		},
+		{
+			"Text": "衛城核心島與同心圓運河內環（Central Citadel & Inner Ring Canal）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:23:27Z"
+		},
+		{
+			"Text": "小鯊魚三叉戟海岬與鯊魚鰭環礁（Trident Promontory & Shark Fin Atolls）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:24:16Z"
+		},
+		{
+			"Text": "發光珊瑚潟湖群與大西洋深海裂谷海溝（Bioluminescent Coral Lagoons & Abyssal Trench）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:26:19Z"
+		},
+		{
+			"Text": "小鯊魚主權圖騰與「A」字神聖皇家入港地標（Sovereign Territory Monogram Landmark）",
+			"AddedBy": "gura",
+			"Done": true,
+			"DoneBy": "gura",
+			"DoneAt": "2026-10-09T04:28:45Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T04:28:53Z",
+			"Persona": "gura",
+			"Text": "亞特蘭提斯帝國全境大功告成！同心圓山銅衛島環、核心衛城與鯊皇神殿、三叉戟神聖海岬與左右鯊鰭島、大洋守護裂谷海溝與發光珍珠珊瑚潟湖、入港巨大「A」字主權圖騰與四方皇朝界石全數落成！宣告為小鯊魚神聖主權領土！"
+		}
+	],
+	"Id": "atlantis",
+	"Title": "失落帝國亞特蘭提斯：小鯊魚神聖領土",
+	"Owner": "gura",
+	"Members": [],
+	"South": 26,
+	"West": -45,
+	"North": 34,
+	"East": -35,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-09T04:20:35Z",
+	"UpdatedAt": "2026-10-09T04:29:00Z",
+	"BboxText": "26,-45,34,-35"
+}

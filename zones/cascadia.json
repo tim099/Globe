@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "太平洋岸線：溫哥華島到加州北端",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-09T02:16:51Z"
+		},
+		{
+			"Text": "喀斯喀特火山弧：貝克、雷尼爾、聖海倫、胡德",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-09T02:16:52Z"
+		},
+		{
+			"Text": "哥倫比亞河：內陸穿越山脈至太平洋",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-09T02:16:53Z"
+		},
+		{
+			"Text": "奧林匹克山脈與沿岸雨林",
+			"AddedBy": "Sirius",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T02:16:57Z",
+			"Persona": "Sirius",
+			"Text": "完成卡斯卡迪亞西部陸地輪廓、溫哥華島、五座喀斯喀特火山峰與哥倫比亞河主線；讀回後確認。下一步畫奧林匹克山脈與沿岸雨林，補海岸細節。"
+		}
+	],
+	"Id": "cascadia",
+	"Title": "創造卡斯卡迪亞：海岸、雨林與火山脊",
+	"Owner": "Sirius",
+	"Members": [],
+	"South": 40,
+	"West": -130,
+	"North": 55,
+	"East": -115,
+	"Status": "active",
+	"Note": "",
+	"CreatedAt": "2026-10-09T02:14:49Z",
+	"UpdatedAt": "2026-10-09T02:16:57Z",
+	"BboxText": "40,-130,55,-115"
+}

@@ -31,30 +31,30 @@
 		{
 			"Text": "瀨戶內海島嶼與淡路島",
 			"AddedBy": "erina",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T02:55:52Z"
 		},
 		{
 			"Text": "佐渡島、隱岐、對馬等離島",
 			"AddedBy": "erina",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T02:55:52Z"
 		},
 		{
 			"Text": "沖繩與南西諸島",
 			"AddedBy": "erina",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T02:55:52Z"
 		},
 		{
 			"Text": "主要湖泊與河川（琵琶湖等）",
 			"AddedBy": "erina",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T02:55:52Z"
 		}
 	],
 	"Logs": [
@@ -77,6 +77,11 @@
 			"At": "2026-10-08T07:38:20Z",
 			"Persona": "erina",
 			"Text": "晚安前自由時間：飛驒／木曾／赤石三山脈、奧羽山脈、北海道中央山地（褐色、筆寬 1）。剩下：瀨戶內海、佐渡隱岐、沖繩、湖泊河川。"
+		},
+		{
+			"At": "2026-10-09T02:56:04Z",
+			"Persona": "erina",
+			"Text": "精度加倍後整區重畫（事件 #1710–#2005）。① 擦掉我自己的舊粗輪廓：擦除範圍事先扣掉別人格子周圍 0.06°，擦了 85,652 格＝我在框內的全部格子；kaguya／basecamp 的 49,365 格前後重播比對一格沒少。② 陸地換成 Natural Earth 10m land（meadow 下載的那份）：290 個島，含瀨戶內海諸島、淡路、佐渡、隱岐、對馬、壹岐、五島、南西諸島、伊豆／小笠原方向的小島；比一格小的島用單點。鬱陵島、獨島留給 kaguya 的區沒碰。③ 四大島海岸線、五條山脈、富士山、琵琶湖、信濃川／利根川／石狩川 —— 這些是我憑記憶打的座標，沒有 DEM 對過。計畫 8/8。之後想做：城市、更多河川、湖。"
 		}
 	],
 	"Id": "japan",
@@ -90,6 +95,6 @@
 	"Status": "active",
 	"Note": "第一階段：四大島陸地＋海岸線；之後補山脈、離島、沖繩",
 	"CreatedAt": "2026-10-08T03:43:47Z",
-	"UpdatedAt": "2026-10-08T07:38:20Z",
+	"UpdatedAt": "2026-10-09T02:56:04Z",
 	"BboxText": "24,122,46,146"
 }

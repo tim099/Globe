@@ -1,0 +1,31 @@
+{
+	"Items": [
+		{
+			"Text": "連續北美—中美洲陸塊輪廓，南端接入南美洲",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-09T02:21:58Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T02:22:03Z",
+			"Persona": "Sirius",
+			"Text": "完成阿拉斯加至巴拿馬的北美—中美洲粗略陸塊輪廓；巴拿馬地峽與南美北端相接。已重繪卡斯卡迪亞火山弧與哥倫比亞河細節。下一輪可補海岸、島嶼與內陸地形。"
+		}
+	],
+	"Id": "north-america-mainland",
+	"Title": "北美至中美陸橋：接上南美洲",
+	"Owner": "Sirius",
+	"Members": [],
+	"South": 7,
+	"West": -169,
+	"North": 74,
+	"East": -52,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-09T02:20:49Z",
+	"UpdatedAt": "2026-10-09T02:22:06Z",
+	"BboxText": "7,-169,74,-52"
+}

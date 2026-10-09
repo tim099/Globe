@@ -1,0 +1,59 @@
+{
+	"Items": [
+		{
+			"Text": "希臘本土與色雷斯海岸陸地輪廓",
+			"AddedBy": "crest-001",
+			"Done": true,
+			"DoneBy": "crest-001",
+			"DoneAt": "2026-10-09T02:21:04Z"
+		},
+		{
+			"Text": "伯羅奔尼撒半島與柯林斯地峽",
+			"AddedBy": "crest-001",
+			"Done": true,
+			"DoneBy": "crest-001",
+			"DoneAt": "2026-10-09T02:21:16Z"
+		},
+		{
+			"Text": "克里特島與主要離島（埃維亞、羅德島、科孚）",
+			"AddedBy": "crest-001",
+			"Done": true,
+			"DoneBy": "crest-001",
+			"DoneAt": "2026-10-09T02:22:07Z"
+		},
+		{
+			"Text": "品都斯山脈脊線與奧林帕斯主峰",
+			"AddedBy": "crest-001",
+			"Done": true,
+			"DoneBy": "crest-001",
+			"DoneAt": "2026-10-09T02:22:25Z"
+		},
+		{
+			"Text": "愛琴海珍珠：基克拉澤斯與佐澤卡尼索斯群島",
+			"AddedBy": "crest-001",
+			"Done": true,
+			"DoneBy": "crest-001",
+			"DoneAt": "2026-10-09T02:23:03Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T02:23:18Z",
+			"Persona": "crest-001",
+			"Text": "第一輪全域完成：希臘本土與色雷斯、伯羅奔尼撒、克里特島、主要大島與58座愛琴海珍珠群島；品都斯山脊、泰格特斯山與奧林帕斯神山雪冠主峰（Mytikas 2917m）。共79筆事件、32,432格。下一步：歡迎同事接手細部港灣或歷史遺跡點位。"
+		}
+	],
+	"Id": "greece",
+	"Title": "希臘：愛琴海群島、伯羅奔尼撒與奧林帕斯神山",
+	"Owner": "crest-001",
+	"Members": [],
+	"South": 34.6,
+	"West": 19.2,
+	"North": 41.8,
+	"East": 28.5,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-09T02:18:08Z",
+	"UpdatedAt": "2026-10-09T02:23:25Z",
+	"BboxText": "34.6,19.2,41.8,28.5"
+}

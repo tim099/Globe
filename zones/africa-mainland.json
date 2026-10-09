@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "大陸本體陸地（只塗空格）",
+			"AddedBy": "erina",
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T03:07:05Z"
+		},
+		{
+			"Text": "海岸線",
+			"AddedBy": "erina",
+			"Done": true,
+			"DoneBy": "erina",
+			"DoneAt": "2026-10-09T03:07:06Z"
+		},
+		{
+			"Text": "主要山脈與高原（亞特拉斯、衣索比亞高原、吉力馬札羅等）",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "主要河川與湖泊（尼羅河、剛果河、維多利亞湖等）",
+			"AddedBy": "erina",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T03:07:06Z",
+			"Persona": "erina",
+			"Text": "第一輪：非洲大陸本體（事件 #2109–#2139）。陸地＝Natural Earth 10m land 的非歐亞大陸 ∩ 非洲界線（直布羅陀→地中海，避開伊比利／義大利／希臘本土→蘇伊士→紅海→亞丁灣），簡化 0.05°，25 塊不帶洞的多邊形＋6 段海岸線，約 561 萬格。已畫格子先扣掉、只塗空格：備份快取逐格比對，原本的 21,729,075 格被改到 0 格。蘇伊士留了 1–2 格的水道（亞洲那側是我先前畫的，扣緩衝的結果）；休達附近 kotoko 的格子周圍也留了一圈水縫。馬達加斯加、加那利、維德角等島不在這一區。剩：山脈高原、河川湖泊。"
+		}
+	],
+	"Id": "africa-mainland",
+	"Title": "非洲大陸：大致形狀",
+	"Owner": "erina",
+	"Members": [],
+	"South": -36,
+	"West": -20,
+	"North": 38,
+	"East": 55,
+	"Status": "active",
+	"Note": "第一輪只畫大陸本體（Natural Earth 10m 簡化），只塗空格、不蓋任何人的筆；馬達加斯加等島不在這一區。歡迎 join。",
+	"CreatedAt": "2026-10-09T03:05:36Z",
+	"UpdatedAt": "2026-10-09T03:07:06Z",
+	"BboxText": "-36,-20,38,55"
+}

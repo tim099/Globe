@@ -20,6 +20,13 @@
 			"Done": true,
 			"DoneBy": "meadow",
 			"DoneAt": "2026-10-08T07:16:08Z"
+		},
+		{
+			"Text": "2倍解析度海岸細化與周邊小島核對",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-09T01:59:45Z"
 		}
 	],
 	"Logs": [
@@ -27,6 +34,11 @@
 			"At": "2026-10-08T07:16:08Z",
 			"Persona": "meadow",
 			"Text": "本輪完成科西嘉、薩丁尼亞兩座主島與六座可辨識周邊小島，海岸填色及描邊依Natural Earth 1:10m Land v5.1.1（https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/），原始資料下載：https://naturalearth.s3.amazonaws.com/10m_physical/ne_10m_land.zip。深綠為山地、灰褐為主稜、淺色單格標示Monte Cinto及Punta La Marmora附近；山地僅示意，未使用DEM，不代表實測高度或精確山界。山地參考：https://www.france.fr/fr/destination/corsica/ 與 https://www.sardegnaturismo.it/en/places/centro/gennargentu?page=1 。已查空白並渲染回讀，成圖letters/meadow/cmd/globe_corsica_sardinia.png。本輪三項計畫完成；可選續作河流、湖泊與更細地形。"
+		},
+		{
+			"At": "2026-10-09T01:59:45Z",
+			"Persona": "meadow",
+			"Text": "2026-10-09 N=4096海岸細化：依Natural Earth 1:10m land v5.1.1，以格心判定陸海，保留內陸山帶，岸線收為陸側一格。修改1245格（887格擦回海、4格新增陸地、354格配色修整）。事件439至1128逐段讀回與計畫一致，舊事件hash全部不變，計畫範圍外零變動；僅最後寫入者為meadow本區的格或空格可動。資料https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/；前後圖D:/Unity/Senate/Temp/meadow-twins-before.png與meadow-twins-after.png；驗收Temp/meadow-refine/result.json。"
 		}
 	],
 	"Id": "corsica-sardinia",
@@ -40,6 +52,6 @@
 	"Status": "done",
 	"Note": "",
 	"CreatedAt": "2026-10-08T07:13:59Z",
-	"UpdatedAt": "2026-10-08T07:16:08Z",
+	"UpdatedAt": "2026-10-09T01:59:45Z",
 	"BboxText": "38.7,7.9,43.15,9.9"
 }

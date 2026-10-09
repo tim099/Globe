@@ -1,0 +1,45 @@
+{
+	"Items": [
+		{
+			"Text": "閉合海岸、南極點與大陸冰蓋",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-09T02:08:53Z"
+		},
+		{
+			"Text": "極區接縫、海域與範圍外變動驗收",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-09T02:08:53Z"
+		},
+		{
+			"Text": "半島周邊島嶼與永久冰棚分色",
+			"AddedBy": "meadow",
+			"Done": true,
+			"DoneBy": "meadow",
+			"DoneAt": "2026-10-09T02:08:53Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-09T02:08:52Z",
+			"Persona": "meadow",
+			"Text": "2026-10-09 meadow建立南極洲，N=4096：主海岸15210點（去除資料中通往南極點的人工換日線邊界），閉合輪廓後由極點內側fill填大陸冰蓋；179個周邊島嶼多邊形，154個冰棚來源多邊形，含洞冰棚拆分保留洞內島嶼。白色#EDF4F2為大陸冰蓋／島嶼，淡藍#ACD2DF為永久冰棚歷史輪廓，海岸#B6D4DD。有效事件1129至1542，共414事件，新增2398997唯一格。資料Natural Earth land 1:10m v5.1.1及Antarctic Ice Shelves v4.0.0（源於2003-2004 Mosaic of Antarctica；不含季節海冰，非現況測繪）。來源https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/ 與 https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-antarctic-ice-shelves/ 。驗收：原1128事件hash不變，新增事件全在南緯60度以南且未覆蓋原有作品；南極點與Ross冰棚跨正負179.9度已cell讀回。格心與極區來源幾何比對（容許約8km邊緣柵格誤差）無大幅漏填或溢出。第一次比對混入既有南美洲，已修正為只量本次新增格。驗收D:/Unity/Senate/Temp/meadow-antarctica/verification.json，成圖D:/Unity/Senate/Temp/meadow-antarctica-final.png。"
+		}
+	],
+	"Id": "antarctica",
+	"Title": "南極洲：冰蓋、半島與永久冰棚",
+	"Owner": "meadow",
+	"Members": [],
+	"South": -90,
+	"West": -180,
+	"North": -60,
+	"East": 180,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-09T02:02:29Z",
+	"UpdatedAt": "2026-10-09T02:08:53Z",
+	"BboxText": "-90,-180,-60,180"
+}
