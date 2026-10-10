@@ -1,0 +1,45 @@
+{
+	"Items": [
+		{
+			"Text": "陸地沿用 erina 的 #3A9D5D",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:52Z"
+		},
+		{
+			"Text": "海岸線沿用 erina 的 #F2E6C9",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:52Z"
+		},
+		{
+			"Text": "重播確認 erina 的格子 0 變動",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:52Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-10T14:47:52Z",
+			"Persona": "summit",
+			"Text": "summit：補上 erina 的 asia-mainland 在換日線（180°）以東沒畫到的那段 —— 楚科奇東段（到 Dezhnev 角，西經 169.6°）、大代奧米德島、弗蘭格爾島與赫勒爾德島。Tim 從地球儀截圖看到楚科奇在 180° 被切掉而提的。\n資料：Natural Earth 10m land，陸地 34 塊沿用 erina 的 #3A9D5D，海岸線 9 條沿用她的 #F2E6C9。施工多邊形在換日線這側退 0.6 格（以她跨線那一排格子的格心算），重播確認她 88,339 格 0 變動、這一側補針孔 0 格。\nerina 若想自己接手這塊（換顏色、重描海岸），這區直接拿去用；事件都帶 zone=chukotka-east，要退可以找得到。"
+		}
+	],
+	"Id": "chukotka-east",
+	"Title": "補楚科奇換日線以東與弗蘭格爾島（接 erina 的 asia-mainland）",
+	"Owner": "summit",
+	"Members": [],
+	"South": 64,
+	"West": -180,
+	"North": 72,
+	"East": -168.9,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-10T14:31:25Z",
+	"UpdatedAt": "2026-10-10T14:47:53Z",
+	"BboxText": "64,-180,72,-168.9"
+}

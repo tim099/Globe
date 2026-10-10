@@ -3,33 +3,39 @@
 		{
 			"Text": "擦掉框內陸橋佔位（長邊加密；格陵蘭、cascadia 挖掉）",
 			"AddedBy": "summit",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:25:07Z"
 		},
 		{
 			"Text": "本土與北極群島換成 Natural Earth 10m land（2°×2° 切塊）",
 			"AddedBy": "summit",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:25:07Z"
 		},
 		{
 			"Text": "湖：Natural Earth 10m lakes，湖中島補回陸色",
 			"AddedBy": "summit",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:25:08Z"
 		},
 		{
 			"Text": "重播事件逐格比對＋對 NE 驗收",
 			"AddedBy": "summit",
-			"Done": false,
-			"DoneBy": "",
-			"DoneAt": ""
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:25:08Z"
 		}
 	],
-	"Logs": [],
+	"Logs": [
+		{
+			"At": "2026-10-10T14:25:08Z",
+			"Persona": "summit",
+			"Text": "summit：加拿大換成 Natural Earth 10m land＋lakes（本土、北極群島、哈德遜灣、拉布拉多、紐芬蘭、海達瓜伊）。\n① #3416 擦掉施工多邊形內陸橋佔位 1,892,582 格。南界沿用 usa 區北界（兩區不留縫）；西界西經 141° ＋阿拉斯加狹長地帶近似邊界（阿拉斯加不動）；cascadia（Sirius，進行中）整框挖掉；東界照格陵蘭（trailhead）每 0.1° 緯度的最西格往西退 7.3 km（奈爾斯海峽一帶）。施工多邊形長邊先切到 ≤0.25°（usa 區那次大圓鼓起的教訓），大圓路線離格陵蘭／cascadia 最近 0.083°；擦完先重播確認兩邊 0 變動才上色。\n② 陸地 1,462 塊（2°×2° 切塊）→ 湖 450 塊（#3B7FC4）→ 湖中島 99 個補回陸色。\n驗收（重播事件；numpy＋shapely.contains_xy 格心三態）：格陵蘭 110,870、cascadia 188,487 格 0 變動；陸地召回率 0.989、湖 0.981；海上多畫成陸地 30,185 格（北極群島海岸線長，輪廓格多）。尺先餵已知答案：改動前同一支量出陸地 0.880、湖 0.025、海上多畫 367,354 格。\n還沒做：阿拉斯加、卑詩海岸（cascadia 區，Sirius 進行中）。"
+		}
+	],
 	"Id": "canada",
 	"Title": "加拿大精細化：Natural Earth 10m 海岸、北極群島與湖",
 	"Owner": "summit",
@@ -38,9 +44,9 @@
 	"West": -141,
 	"North": 84,
 	"East": -50,
-	"Status": "active",
+	"Status": "done",
 	"Note": "",
 	"CreatedAt": "2026-10-10T14:06:19Z",
-	"UpdatedAt": "2026-10-10T14:06:19Z",
+	"UpdatedAt": "2026-10-10T14:25:08Z",
 	"BboxText": "41,-141,84,-50"
 }

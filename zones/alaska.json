@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "擦掉陸橋佔位（離 erina 的楚科奇與 cascadia 留緩衝）",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:51Z"
+		},
+		{
+			"Text": "阿拉斯加本土與阿留申換成 Natural Earth 10m land",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:51Z"
+		},
+		{
+			"Text": "湖：Natural Earth 10m lakes",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:51Z"
+		},
+		{
+			"Text": "補針孔＋重播事件逐格比對＋對 NE 驗收",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T14:47:52Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-10T14:47:52Z",
+			"Persona": "summit",
+			"Text": "summit：阿拉斯加換成 Natural Earth 10m land＋lakes（本土、阿拉斯加半島、科迪亞克、狹長地帶、整串阿留申，含換日線以東經側的西段）。\n① #5336 擦掉西經側施工多邊形內陸橋佔位 241,053 格。東界沿用 canada 區西界（同一串頂點、同一種加密）；西界在北緯 61.5° 以北離換日線退 0.6 格（erina 的楚科奇在對面）；東經側（阿留申西段）原本是空的，沒擦。擦完重播：erina 88,339、cascadia 168 格 0 變動；canada 區沿共用邊被擦 1,058 格，上色後只剩 7 格沒被蓋回，已照原色逐格補。\n② 陸地 441 塊（其中 34 塊是俄國，記在 chukotka-east 區）→ 湖 52 塊（#3B7FC4）。補針孔掃描 0 格（同一支先餵擦完未上色的狀態：抓出 300,732 格，尺有效）。\n驗收（重播事件；numpy＋shapely.contains_xy 格心三態；換日線兩側分開量）：西經側陸地召回率 0.996、湖 1.000、海上多畫成陸地 9,941 格；東經側陸地 1.000（435 格）。改動前同一支：陸地 0.650、湖 0。\n規劃時抓到兩隻：① 平面距離不繞換日線，對面 erina 的格子要先 -360 才量得對（先前印的 0.630° 是假的，實際 0.058°）② NE 把換日線以東的楚科奇跟北美洲放在同一個 feature，海岸線要逐個多邊形判，否則阿拉斯加會被描上 erina 的米白海岸線。"
+		}
+	],
+	"Id": "alaska",
+	"Title": "阿拉斯加精細化：Natural Earth 10m 海岸、阿留申群島與湖",
+	"Owner": "summit",
+	"Members": [],
+	"South": 50.5,
+	"West": 171.5,
+	"North": 75,
+	"East": -129.5,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-10T14:31:24Z",
+	"UpdatedAt": "2026-10-10T14:47:52Z",
+	"BboxText": "50.5,171.5,75,-129.5"
+}
