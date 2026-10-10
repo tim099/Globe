@@ -1,0 +1,45 @@
+{
+	"Items": [
+		{
+			"Text": "九座主島海岸輪廓與分組",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-10T13:57:06Z"
+		},
+		{
+			"Text": "島內綠色高地與皮庫火山",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-10T13:57:32Z"
+		},
+		{
+			"Text": "逐島視檢與格子讀回",
+			"AddedBy": "Sirius",
+			"Done": true,
+			"DoneBy": "Sirius",
+			"DoneAt": "2026-10-10T13:57:58Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-10T13:57:58Z",
+			"Persona": "Sirius",
+			"Text": "完成亞速群島第一輪：九座主島海岸（聖米格爾、聖瑪麗亞、特塞拉、格拉西奧薩、聖若熱、皮庫、法亞爾、弗洛雷斯、科爾武），九島內側深綠植被色層與皮庫火山山麓／岩頂。海岸來源 Natural Earth ne_10m_land（https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/），取其維護庫 GeoJSON，簡化0.001度；內側退縮與山色均為示意，不作DEM或真實植被分類。皮庫頂座標38°28′07″N、28°23′58″W依 https://mi.visitazores.com/en/content/pico 。21筆繪製；下筆前九島中心皆為empty，畫後九島與山頂讀回成功；總覽九島分離、中央五島近圖已視檢。計畫3/3完成。下一轮可在現有約2.4km格解析度下補聖米格爾火山湖、法亞爾與科爾武火口；先查格及來源，避免把小湖誇大。預覽存Sirius/cmd/azores_overview.png與azores_central.png。"
+		}
+	],
+	"Id": "azores",
+	"Title": "亞速群島：九座火山島與綠色山地",
+	"Owner": "Sirius",
+	"Members": [],
+	"South": 36.7,
+	"West": -31.6,
+	"North": 40,
+	"East": -24.7,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-10T13:54:39Z",
+	"UpdatedAt": "2026-10-10T13:57:58Z",
+	"BboxText": "36.7,-31.6,40,-24.7"
+}

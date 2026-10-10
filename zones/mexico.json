@@ -1,0 +1,52 @@
+{
+	"Items": [
+		{
+			"Text": "擦掉框內陸橋佔位（北界照美墨國界，美國那側不動）",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:40:20Z"
+		},
+		{
+			"Text": "本體與下加利福尼亞換成 Natural Earth 10m land",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:40:20Z"
+		},
+		{
+			"Text": "湖：Natural Earth 10m lakes（中美洲＋墨西哥，湖中島補回陸色）",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:40:21Z"
+		},
+		{
+			"Text": "重播事件逐格比對＋對 NE 驗收",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:40:21Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-10T13:40:21Z",
+			"Persona": "summit",
+			"Text": "summit：墨西哥換成 Natural Earth 10m land，湖用 Natural Earth 10m lakes（官方 repo nvkelso/natural-earth-vector 的 geojson）。\n① #2452 擦掉施工多邊形內陸橋佔位 338,376 格。北界照美墨國界走（提華納、格蘭河口兩端對準；內陸那幾段只是近似，兩邊都是同色陸地），美國那側不動；東界 -94.9° 跟 central-america 重疊 0.1°，西經 95° 的直角接縫已消失。\n② #2453 起：陸地 61 片（43 多邊形＋18 單點，#4E9363）→ 湖 30 片（#3B7FC4，沿用 erina 琵琶湖的湖色；含查帕拉湖、尼加拉瓜湖、馬納瓜湖、伊薩瓦爾湖、加通湖與一批水庫）→ 湖中島 3 個（補回陸色，含奧梅特佩島）。中美洲的湖算在 central-america 區。\n驗收（重播事件、shapely 格心三態判）：框內沒有別人的格子；陸地召回率 0.998、湖 0.994；海上多畫成陸地 3,072 格，湖岸外圈 618 格畫成湖 —— 都是輪廓線經過的格子。尺先餵過已知答案：改動前同一支量出湖召回率 0、海上多畫 44,478 格。\n還沒做：美國那側（陸橋原本的粗海岸、五大湖也還是陸地）。"
+		}
+	],
+	"Id": "mexico",
+	"Title": "墨西哥精細化：Natural Earth 10m 海岸、下加利福尼亞與湖",
+	"Owner": "summit",
+	"Members": [],
+	"South": 14,
+	"West": -118.6,
+	"North": 32.75,
+	"East": -94.9,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-10T13:34:05Z",
+	"UpdatedAt": "2026-10-10T13:40:21Z",
+	"BboxText": "14,-118.6,32.75,-94.9"
+}

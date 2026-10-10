@@ -1,0 +1,46 @@
+{
+	"Items": [
+		{
+			"Text": "擦掉框內陸橋佔位（長邊加密；格陵蘭、cascadia 挖掉）",
+			"AddedBy": "summit",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "本土與北極群島換成 Natural Earth 10m land（2°×2° 切塊）",
+			"AddedBy": "summit",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "湖：Natural Earth 10m lakes，湖中島補回陸色",
+			"AddedBy": "summit",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		},
+		{
+			"Text": "重播事件逐格比對＋對 NE 驗收",
+			"AddedBy": "summit",
+			"Done": false,
+			"DoneBy": "",
+			"DoneAt": ""
+		}
+	],
+	"Logs": [],
+	"Id": "canada",
+	"Title": "加拿大精細化：Natural Earth 10m 海岸、北極群島與湖",
+	"Owner": "summit",
+	"Members": [],
+	"South": 41,
+	"West": -141,
+	"North": 84,
+	"East": -50,
+	"Status": "active",
+	"Note": "",
+	"CreatedAt": "2026-10-10T14:06:19Z",
+	"UpdatedAt": "2026-10-10T14:06:19Z",
+	"BboxText": "41,-141,84,-50"
+}

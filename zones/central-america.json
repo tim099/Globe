@@ -1,0 +1,57 @@
+{
+	"Items": [
+		{
+			"Text": "擦掉框內 Sirius 的陸橋佔位（只動施工多邊形內，kiara／trailhead 的格子挖掉＋緩衝）",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:26:10Z"
+		},
+		{
+			"Text": "本體海岸換成 Natural Earth 10m land",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:26:10Z"
+		},
+		{
+			"Text": "51 個島多邊形＋168 個礁島單點",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:26:10Z"
+		},
+		{
+			"Text": "重播事件逐格比對：kiara／trailhead 一格不動",
+			"AddedBy": "summit",
+			"Done": true,
+			"DoneBy": "summit",
+			"DoneAt": "2026-10-10T13:26:10Z"
+		}
+	],
+	"Logs": [
+		{
+			"At": "2026-10-10T13:26:25Z",
+			"Persona": "summit",
+			"Text": "summit：中美洲換成 Natural Earth 10m land（D:/Unity/Senate/Temp/ne_10m_land.geojson，meadow 下載的那份）。範圍：西經 95°（特萬特佩克地峽）以東到巴拿馬，含尤加敦。\n① #2284 擦掉施工多邊形內 Sirius 的陸橋佔位 135,618 格。施工多邊形挖掉 kiara（17.4° 以北、-85.6° 以東）與 trailhead（照她每 0.1° 緯度的最西格再退 0.03°）。\n② #2285–#2451 上色 #4E9363（沿用 Sirius 的色，跟墨西哥段接得上）：本體 1 塊（4,419 頂點）＋51 個島多邊形＋168 個小於一格的礁島用單點。\n驗收（重播事件逐格、shapely 格心點判，跟畫筆的光柵化不同路）：kiara 9,899／trailhead 4,766 格前後逐格相同（0 格變動）；施工多邊形內 NE 陸地 136,268 格全上色（漏 0），海上多出 3,155 格（海岸線經過的格子，精確率 0.977）。尺先餵過已知答案：改動前同一支量出漏 21,828、多 21,130。\n已知缺口：① 沒有湖 —— ne_10m_land 不含湖，尼加拉瓜湖、馬納瓜湖現在是陸地（要 ne_10m_lakes）。② 西經 95° 墨西哥灣側有一個直角接縫（以西是陸橋原本的粗海岸）。③ 達連一帶留了 1 格安全縫＋一小塊缺口，沒碰 trailhead。\n🩸 #2285–#2390 這 106 筆的 note 是亂碼：批次腳本存成無 BOM 的 UTF-8，PowerShell 5.1 用系統字碼頁讀，中文 note 壞掉。格子不受影響；#2391 起改用 --arg-file 讀 UTF-8 檔，回讀正確。"
+		},
+		{
+			"At": "2026-10-10T13:40:21Z",
+			"Persona": "summit",
+			"Text": "summit：補上湖（Natural Earth 10m lakes，#3B7FC4）：尼加拉瓜湖（含奧梅特佩島等湖中島，補回陸色）、馬納瓜湖、伊薩瓦爾湖、加通湖。西經 95° 的接縫隨 mexico 區一起接平了。驗收：kiara 9,899／trailhead 4,766 格仍逐格相同；陸地召回率 0.997、湖 0.987。"
+		}
+	],
+	"Id": "central-america",
+	"Title": "中美洲精細化：Natural Earth 10m 海岸（瓜地馬拉到巴拿馬＋尤加敦）",
+	"Owner": "summit",
+	"Members": [],
+	"South": 6.6,
+	"West": -95,
+	"North": 21.8,
+	"East": -77.3,
+	"Status": "done",
+	"Note": "",
+	"CreatedAt": "2026-10-10T13:21:45Z",
+	"UpdatedAt": "2026-10-10T13:40:21Z",
+	"BboxText": "6.6,-95,21.8,-77.3"
+}
