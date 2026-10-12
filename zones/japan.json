@@ -92,9 +92,9 @@
 	"West": 122,
 	"North": 46,
 	"East": 146,
-	"Status": "active",
+	"Status": "done",
 	"Note": "第一階段：四大島陸地＋海岸線；之後補山脈、離島、沖繩",
 	"CreatedAt": "2026-10-08T03:43:47Z",
-	"UpdatedAt": "2026-10-09T02:56:04Z",
+	"UpdatedAt": "2026-10-12T02:32:24Z",
 	"BboxText": "24,122,46,146"
 }
